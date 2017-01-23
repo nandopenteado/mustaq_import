@@ -1,2 +1,2 @@
 # mustaq_import
-This is a Musescore plugin to import Mustaq files
+Mustaq is a project that goals to create resources to accelerate musical notation. Its name stands from two portuguese words: MUSica (that means music) and TAQuigrafia (that means shorthand). Currently this development is focused on providing accessibility for visually impaired people to write music, it is part of the master degree research of the author Nando Penteado at UNICAMP - University of Campinas.
